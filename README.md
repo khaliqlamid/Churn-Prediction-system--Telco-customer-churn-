@@ -59,7 +59,7 @@ Features include:
 
 ---
 
-## 🤖 Modeling Approach
+## Modeling Approach
 
 ### Baseline Model: Logistic Regression
 Chosen for:
@@ -75,7 +75,7 @@ Logistic Regression performed better overall.
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 **Logistic Regression Results**
 
@@ -88,7 +88,7 @@ Threshold tuning improved churn detection by catching more high risk customers w
 
 ---
 
-## 🎯 Business Recommendations
+## Business Recommendations
 
 1. **Convert Month to Month Customers**
    - Offer incentives to move customers to 1 year or 2 year contracts.
